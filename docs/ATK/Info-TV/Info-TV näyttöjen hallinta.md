@@ -1,4 +1,4 @@
-# Näyttöjen perustoiminnot, sisällön muokkaaminen, yms.
+# Info-TV näyttöjen perustoiminnot, sisällön muokkaaminen, yms.
 
 ## Hallintapaneelin perustoiminnot
 
