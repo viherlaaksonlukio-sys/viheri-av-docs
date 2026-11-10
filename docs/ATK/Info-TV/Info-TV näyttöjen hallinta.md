@@ -15,7 +15,7 @@ Info-TV palvelimen yhden näytön verkko-osoite on muotoa `http://192.168.10.22/
 3. Sivun ylhäällä on "Uusi näyttö" osio. Syötä kentille InfoTV:n tiedot, mutta varmista, että "tunnus" on sama kuin aikaisemmin avaamassasi näytön linkissä.
 4. Klikkaa "Lisää".
 5. Näytön pitäisi olla nyt linkitetty! Voit tämän jälkeen valita näytön esityksen tiputusvalikosta.
-### Esitykset
+## Esitykset
 
 Näyttöjen dioja voi muokata hallintapaneelin "Esitykset" sivulta.
 
@@ -32,15 +32,15 @@ Valitsemalla jonkun esityksen vasemmalta voit muokata kyseisen esityksen sisält
 
 ![esitys_esimerkki](images/esitys_esimerkki.png)
 
-## Sisällön lisääminen
-### Kuvat ja videot
+### Sisällön lisääminen
+#### Kuvat ja videot
 
 Yksinkertaisimmillaan esityksen dia voi olla kuva tai video. Kuvia ja videoita voi lisätä esitykseen sivun ylhäällä olevasta "Pudota kuvia tai videoita tähän tai klikkaa" laatikosta.
 Voit raahata videoita ja kuvia laatikkoon tiedostoistasi, tai klikata laatikkoa. Tämä avaa sinulla resurssienhallinnan, josta voit valita sisältösi.
 
 ![pudota_valitse](images/pudota_valitse.png)
 
-### Edistykselliset sisältötoiminnot
+#### Edistykselliset sisältötoiminnot
 
 Dian sisältönä voi olla myös nettisivu tai RSS-syöte.
 
@@ -57,7 +57,7 @@ RSS-syöte perjaatteessa tukee tällä hetkellä vain Espoo Catering-ruokalistoj
 
 ![rss](images/rss.png)
 
-### Yhteiset diat
+#### Yhteiset diat
 Dioja voi jakaa painamalla dian kohdalla olevaa "Jaa" nappia. 
 
 ![jaettu](images/jaettu.png)
