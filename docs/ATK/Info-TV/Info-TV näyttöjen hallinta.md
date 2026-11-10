@@ -6,7 +6,7 @@
 
 #### Näytön lisääminen
 
-Huom! Näytön / näyttöön liitetyn tietokoneen tulee olla fyysisesti liitetty InfotTV verkkoon! Tästä lisätietoa teknisissä ohjeissa: [Tekniset ohjeet](/Tekniset%20ohjeet.md)
+Huom! Näytön / näyttöön liitetyn tietokoneen tulee olla fyysisesti liitetty InfotTV verkkoon! Tästä lisätietoa teknisissä ohjeissa: [Tekniset ohjeet](./Tekniset%20ohjeet.md)
 
 Info-TV palvelimen yhden näytön verkko-osoite on muotoa `http://192.168.10.22/d/infotv-nimi-tähän`
 
