@@ -8,7 +8,7 @@
 
 Huom! Näytön / näyttöön liitetyn tietokoneen tulee olla fyysisesti liitetty InfotTV verkkoon! Tästä lisätietoa teknisissä ohjeissa: (teknisten ohjeiden linkki tähän)
 
-Info-TV palvelimen yhden näytön verkko-osoite on muotoa `http://192.168.10.22/d/infotv-nimi-tähän
+Info-TV palvelimen yhden näytön verkko-osoite on muotoa `http://192.168.10.22/d/infotv-nimi-tähän`
 
 1. Avaa näytöllä yllä oleva verkko-osoite. Vaihda osoitteen viimeinen osa, eli näytön tunnus (infotv-nimi-tähän) kyseisen InfoTV:n nimeksi. Tunnus ei voi sisältää ääkkösiä, pilkkuja, pisteitä, välilyöntejä, yms.. Suosittelen, että käytät vain väliviijoja (-), kirjaimia (a-z) ja numeroita (0-9).
 2. Avaa hallintapaneelin "Näytöt"-sivu
