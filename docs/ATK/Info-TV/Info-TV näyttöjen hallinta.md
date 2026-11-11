@@ -1,5 +1,14 @@
 # Info-TV näyttöjen perustoiminnot, sisällön muokkaaminen, yms.
 
+## Kuinka pääsen hallintapaneeliin?
+
+### 4krs Hiljaisen tilan MacBook Pro
+Opehuoneen hiljaisessa työtilassa on valmiiksi tehty MacBook Pro, jolla voit muokata näyttöjen sisältöä. Huomioi, että MacBook ei ole internetissä, vain sisäisessä InfoTV verkossa, joten valmistele USB muistitikku jossa on haluamasi sisältö.
+
+### Oma kannettava
+
+Voit myös liittää oman kannettavasi InfoTV verkkoon, mikäli kannettavassasi on ethernet-portti. Irroita MacBookista verkkojohto, liitä se omaan kannettavaasi, ja avaa missä tahansa selaimessa osoite [http://192.168.10.22:3080/admin](http://192.168.10.22:3080/admin). Macissa on tarra, jossa lukee hallintapaneelin käyttäjänimi sekä salasana.
+
 ## Hallintapaneelin perustoiminnot
 
 ### Näytöt
