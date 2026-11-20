@@ -15,7 +15,7 @@ Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti, laitteet e
    - Avaa OpenCore Patcher applikaatio
    - Kun näet vastaavan ikkunan:
 
-![opencoremain](image/opencoremain.png)
+![opencoremain](images/opencoremain.png)
 
    - Valitse "Post-Install Root Patch" vaihtoehto.
    - Seuraa asennusohjelman ohjeita
