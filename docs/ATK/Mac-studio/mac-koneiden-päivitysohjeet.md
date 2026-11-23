@@ -1,6 +1,6 @@
 # Mac-studion iMac tietokoneiden MacOS 26 Tahoe päivitysohjeet
 
-Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti, laitteet eivät tue tätä versiota, joten järjestelmäpäivityksen jälkeen on tehtävä lisätoimenpiteitä palauttamaan laitteisto toimintakuntoon.
+Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti laitteet eivät tue tätä versiota, joten järjestelmäpäivityksen jälkeen on tehtävä lisätoimenpiteitä palauttamaan laitteisto toimintakuntoon.
 
 **Huomioitavaa: MacOS 26 Tahoe on viimeinen MacOS versio, joka tukee Intel Mac-koneita. MacOS 26 ominaisuus -ja tietoturvapäivitykset jatkuvat arviolta vuoden 2028 loppupuolelle. Tämän jälkeen uusien järjestelmäpäivitysten asentaminen on mahdotonta, ja Macit tulisi vaihtaa Apple Silicon Macceihin.**
 
