@@ -37,4 +37,4 @@ Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti, laitteet e
    
 ## OpenCore Dokumentaatio
 Ongelmatilanteissa, käy läpi myös OpenCoren Post-Installation dokumentaatio:
-(https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches)[https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches]
+[https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches](https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches)
