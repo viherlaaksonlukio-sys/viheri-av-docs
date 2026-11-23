@@ -9,19 +9,27 @@ Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti, laitteet e
    - Huomioi, että automaattiset järjestelmäpäivitykset ovat poistettu käytöstä. Tämä on tarkoituksella, jotta koneet eivät satunnaisesti mene epäkuntoon.
    - Laite todennäköisesti käynnistyy uudelleen päivitysten jälkeen (tai käynnistä se uudelleen itse).
    - Uudelleenkäynnistyksen jälkeen järjestelmästä puuttuu välttämättömiä ajureita. Näyttö tuntuu todennäkäisesti hitaalta, ja esimerkisi Wifi ei toimi.
-   - OpenCore Patcher saattaa tässä vaiheessa havaita puuttuvat ajurit. Jos näet näytöllä vastaavan näköisen ikkunan, paina OK:
+   - OpenCore Patcher saattaa tässä vaiheessa havaita puuttuvat ajurit. Jos näet näytöllä vastaavan näköisen ikkunan:
 
 ![autopacher](images/autopatcher.png)
 
+
+   - Paina OK:
+      - Odota, että asennusohjelma asentaa ohjaimet (syötä atk-opettaja.vihluk käyttäjän salasana jos sitä pyydetään).
+      - Kun asennus on valmis, käynnistä laite uudelleen.
+      - Kun laite on käynnistynyt uudelleen, ajurit tulee asentaa toiseen kertaan. Tarkista, että sinulla on nyt toimiva Wifi yhteys (espoo_oppilas).
+      - Jos näet samanlaisen ikkunan kuin yllä, paina taas OK ja anna ohjelman asentaa ohjaimet.
+         - Jos et näe samanlaista ikkunaa, siirry alla oleviin Asenna ajurit ohjeisiin.
+      - Seuraavan uudellenkäynnistyksen jälkeen ajureiden pitäisi olla asentuneet.
    - Jos et näe ikkunaa, jatka alla olevilla ohjeilla.
 ## Asenna ajurit:
-   - Avaa OpenCore Patcher applikaatio
+   - Avaa OpenCore Patcher applikaatio (löytyy työpöydältä).
    - Kun näet vastaavan ikkunan:
 
 ![opencoremain](images/opencoremain.png)
 
    - Valitse "Post-Install Root Patch" vaihtoehto.
-   - Seuraa asennusohjelman ohjeita
+   - Seuraa asennusohjelman ohjeita (syötä atk-opettaja.vihluk käyttäjän salasana jos sitä pyydetään).
    - Lopussa ohjelma pyytää käynnistämään uudelleen. Käynnistä laite uudelleen.
    - Kun olet takaisin MacOS:ssä, varmista, että sinulla on toimiva Wifi yhteys (espoo_oppilas).
    - Asenna ajurit toiseen kertaan seuraamalla näitä ajurien asennusohjeita samalla tavalla kuin äsken. 
