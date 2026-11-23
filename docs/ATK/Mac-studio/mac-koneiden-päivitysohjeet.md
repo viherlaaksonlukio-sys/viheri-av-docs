@@ -36,5 +36,5 @@ Mac-studion iMac-koneisiin on asennettu MacOS 26 Tahoe. Virallisesti, laitteet e
    - Kun olet toiseen kertaan asentanut ajurit ja käynnistänyt Macin uudelleen, kaikki ajurit ovat nyt asentuneet!
    
 ## OpenCore Dokumentaatio
-Ongelmatilanteissa, käy läpi myös OpenCoren Post-Installation dokumentaatio:
+Ongelmatilanteissa käy läpi myös OpenCoren Post-Installation dokumentaatio:
 [https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches](https://dortania.github.io/OpenCore-Legacy-Patcher/POST-INSTALL.html#applying-post-install-volume-patches)
